@@ -83,6 +83,6 @@ export default {
   border-radius: 40px;
   height: 40px;
   width: 180px;
-  background-color: antiquewhite;
+  background-color: white;
 }
 </style>
