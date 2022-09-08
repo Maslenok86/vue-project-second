@@ -5,6 +5,7 @@ import Promotion from "./components/Promotion.vue";
 import Features from "./components/Features.vue";
 import AboutArea from "./components/AboutArea.vue";
 import Footer from "./components/Footer.vue";
+import Developer from "./components/Developer.vue";
 
 </script>
 
@@ -13,6 +14,7 @@ import Footer from "./components/Footer.vue";
   <Promotion/>
   <Features/>
   <AboutArea/>
+  <Developer/>
   <Footer/>
 </template>
 
